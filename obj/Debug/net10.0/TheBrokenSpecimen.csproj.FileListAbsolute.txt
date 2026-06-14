@@ -1,0 +1,14 @@
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/bin/Debug/net10.0/TheBrokenSpecimen
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/bin/Debug/net10.0/TheBrokenSpecimen.deps.json
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/bin/Debug/net10.0/TheBrokenSpecimen.runtimeconfig.json
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/bin/Debug/net10.0/TheBrokenSpecimen.dll
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/bin/Debug/net10.0/TheBrokenSpecimen.pdb
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.GeneratedMSBuildEditorConfig.editorconfig
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.AssemblyInfoInputs.cache
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.AssemblyInfo.cs
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.csproj.CoreCompileInputs.cache
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.dll
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/refint/TheBrokenSpecimen.dll
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.pdb
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/TheBrokenSpecimen.genruntimeconfig.cache
+/home/crates/projects/CSharpProjects/TheBrokenSpecimen/obj/Debug/net10.0/ref/TheBrokenSpecimen.dll
